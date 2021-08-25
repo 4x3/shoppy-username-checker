@@ -1,0 +1,5 @@
+# Optional proxies (one per line)
+# Supported:
+# ip:port
+# user:pass@ip:port
+# http://ip:port
